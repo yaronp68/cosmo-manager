@@ -21,7 +21,6 @@ Requirements
     - bernhard
 - Riemann (http://riemann.io)
 - RabbitMQ (http://www.rabbitmq.com/download.html)
-- 
 
 
 Setup
